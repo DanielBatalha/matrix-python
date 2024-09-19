@@ -37,3 +37,13 @@ This$#is% Matrix#  %!
 Neo substitui os símbolos ou espaços entre dois caracteres alfanuméricos por um único espaço ' ' para melhor legibilidade.
 Portanto, o script decodificado final é:
 This is Matrix#  %!
+
+Na solução, para obter o resultado esperado, é necessário informar na primeira linha o número de linhas e colunas, separados por um espaço:
+7 3  (Isso indica que há 7 linhas e 3 colunas na matriz)
+Tsi
+h%x
+i #
+sM 
+$a 
+#t%
+ir!
